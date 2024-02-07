@@ -1,4 +1,20 @@
-# React + TypeScript + Vite
+# Will you be my Valentine? 💘
+
+A cute and fun way to ask your loved one to be your Valentine!
+
+### Description
+
+Created using CodeSandBox, this web app displays a question 'Will you be my Valentine?' with a 'Yes' or 'No' button. If the user keeps choosing 'No', the 'Yes' button will get bigger each time and the 'No' button will change to different answers.
+
+### Live Preview
+
+[Click here for Live Preview](https://25j7xw-5173.csb.app/)
+
+### Credits
+
+[Tru Narla](https://www.instagram.com/p/C23I8YqPL8X/?hl=en)
+
+### React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -7,7 +23,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+#### Expanding the ESLint configuration
 
 If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
 
